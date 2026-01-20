@@ -1,0 +1,177 @@
+/* Основні налаштування */
+body {
+    background-color: #F6F6FA;
+    font-family: 'Montserrat', sans-serif;
+    padding: 40px 0;
+    margin: 0;
+}
+
+ul, ol {
+    margin-top: 0;
+    margin-bottom: 0;
+    padding-left: 20px;
+}
+
+/* Обгортка (Wrapper) */
+.wrapper {
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: row-reverse; /* Ставить sidebar зліва, контент справа */
+    width: 1200px;
+    margin: 0 auto;
+    box-shadow: 0px 15px 50px rgba(0, 0, 0, 0.05);
+}
+
+/* Основний контент */
+.main-content {
+    padding: 80px 40px 80px 88px;
+    box-sizing: border-box;
+    width: 830px;
+}
+
+.my-info {
+    margin-bottom: 40px;
+}
+
+.my-profession {
+    color: #161D2A;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 1.2;
+    margin: 0 0 8px 0;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+
+.my-name {
+    color: #000000;
+    font-size: 45px;
+    font-weight: 700;
+    line-height: 1.2;
+    margin: 0 0 12px 0;
+}
+
+.my-descr {
+    color: #595959;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+}
+
+/* Проекти та досвід */
+.my-projects-conteiner, .my-work {
+    margin-bottom: 40px;
+}
+
+.my-projects-title, .work-experience-title, .my-education {
+    color: #000000;
+    font-size: 22px;
+    font-weight: 700;
+    margin: 0 0 12px 0;
+}
+
+.my-projects-list {
+    font-weight: 700;
+    line-height: 24px;
+}
+
+.my-projects-item-link {
+    color: #005FFF;
+    font-weight: 700;
+    text-decoration: underline;
+}
+
+.my-projects-item-tech {
+    color: #595959;
+    font-weight: 400;
+}
+
+/* Work Experience Details */
+.work-experience-container {
+    margin-bottom: 20px;
+}
+
+.work-experience-company {
+    font-size: 16px;
+    font-weight: 700;
+    margin-bottom: 8px;
+}
+
+.company-name {
+    color: #6D9BF5;
+}
+
+.work-experience-period {
+    color: #A8A8A8;
+    font-size: 12px;
+    margin-bottom: 8px;
+}
+
+.work-experience-duties-item {
+    color: #595959;
+    font-size: 14px;
+    line-height: 24px;
+    margin-bottom: 4px;
+}
+
+/* Education */
+.my-education-univers {
+    color: #6D9BF5;
+    font-weight: 700;
+    display: block;
+}
+
+.my-education-prof {
+    font-weight: 700;
+    color: #000;
+}
+
+/* Бічна панель (Sidebar) */
+.sidebar {
+    background-color: #E0EBFE;
+    width: 370px;
+    padding-bottom: 40px;
+}
+
+.sidebar-content {
+    padding: 40px;
+}
+
+.sidebar img {
+    width: 370px;
+    height: auto;
+    display: block;
+}
+
+.contacts-container, .skills-container {
+    margin-bottom: 40px;
+}
+
+.contacts-title, .skills-title {
+    color: #161D2A;
+    font-size: 22px;
+    font-weight: 700;
+    margin-bottom: 12px;
+}
+
+.contacts-item {
+    margin-bottom: 10px;
+}
+
+.contacts-type {
+    font-weight: 700;
+    margin-right: 8px;
+}
+
+.contacts-link {
+    color: #2979FF;
+    text-decoration: none;
+    font-size: 14px;
+}
+
+.skills-list-line {
+    color: #161D2A;
+    font-size: 14px;
+    line-height: 24px;
+    margin-bottom: 4px;
+}
