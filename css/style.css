@@ -7,28 +7,22 @@ body {
 
 ul, ol {
     margin: 0;
-    padding-left: 18px;
+    padding-left: 20px;
 }
 
-/* Wrapper Layout */
 .wrapper {
     background-color: #ffffff;
     display: flex;
-    flex-direction: row-reverse; /* Sidebar на лівій стороні */
+    flex-direction: row-reverse;
     width: 1200px;
     margin: 0 auto;
-    box-shadow: 0px 20px 60px rgba(0, 0, 0, 0.08); /* Солідна тінь */
+    box-shadow: 0px 20px 60px rgba(0, 0, 0, 0.08);
 }
 
-/* Main Area */
 .main-content {
     padding: 80px 40px 80px 88px;
     box-sizing: border-box;
     width: 830px;
-}
-
-.my-info {
-    margin-bottom: 50px;
 }
 
 .my-profession {
@@ -50,12 +44,8 @@ ul, ol {
 .my-descr {
     color: #595959;
     font-size: 14px;
-    line-height: 26px; /* Більший міжрядковий інтервал */
-}
-
-/* Sections */
-.my-projects-conteiner, .my-work {
-    margin-bottom: 50px;
+    line-height: 26px;
+    margin-bottom: 40px;
 }
 
 .my-projects-title, .work-experience-title, .my-education {
@@ -68,7 +58,7 @@ ul, ol {
 }
 
 .project-item {
-    margin-bottom: 25px;
+    margin-bottom: 30px;
 }
 
 .my-projects-item-link {
@@ -78,12 +68,6 @@ ul, ol {
     text-decoration: underline;
 }
 
-.my-projects-item-tech {
-    color: #A8A8A8;
-    font-weight: 400;
-    font-size: 13px;
-}
-
 .project-descr {
     margin: 8px 0 0 0;
     color: #595959;
@@ -91,15 +75,8 @@ ul, ol {
     line-height: 22px;
 }
 
-/* Work Details */
 .work-experience-container {
     margin-bottom: 30px;
-}
-
-.work-experience-company {
-    font-size: 17px;
-    font-weight: 700;
-    margin-bottom: 8px;
 }
 
 .company-name {
@@ -119,11 +96,10 @@ ul, ol {
     margin-bottom: 6px;
 }
 
-/* Sidebar Styling */
 .sidebar {
     background-color: #E0EBFE;
     width: 370px;
-    min-height: 100%;
+    min-height: 100vh;
 }
 
 .sidebar img {
@@ -134,10 +110,6 @@ ul, ol {
 
 .sidebar-content {
     padding: 40px;
-}
-
-.contacts-container, .skills-container {
-    margin-bottom: 45px;
 }
 
 .contacts-title, .skills-title {
