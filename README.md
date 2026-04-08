@@ -13,11 +13,12 @@ Interactive HTML/CSS technical resume of **Volodymyr Shevchenko** — CTO & Syst
 
 ## Expertise
 
-- **Odoo ERP** — custom modules (MRP, CRM, e-Commerce, accounting), Odoo 17 Community
+- **Odoo ERP** — custom modules (MRP, CRM, e-Commerce, accounting), Odoo 17 Community & Enterprise
 - **Industrial IoT** — Modbus TCP, PLC integration, real-time machine monitoring bridges
-- **AI Automation** — offline voice kiosks (Vosk/Piper), AI sales agents, LLM integrations
+- **AI Automation** — offline voice kiosks (Vosk/Piper), AI sales agents (Claude Sonnet / GPT-4o), LLM integrations
 - **Business Automation** — n8n, webhook pipelines, API integrations
-- **Poland Market** — KSeF e-invoicing (FA3/VAT Marża), GDPR/RODO compliance, Polish localization
+- **Poland Market** — KSeF 2.0 e-invoicing (FA3/VAT Marża), GDPR/RODO compliance, Polish localization
+- **Legal & Compliance** — 11 years legal practice (2011–2022); contracts, data protection, business process law
 
 ## Key Projects
 
@@ -29,6 +30,7 @@ Interactive HTML/CSS technical resume of **Volodymyr Shevchenko** — CTO & Syst
 | [zadarma-odoo](https://github.com/VladSh77/zadarma-odoo) | Zadarma VoIP full integration with Odoo CRM |
 | [ai-kiosk](https://github.com/VladSh77/ai-kiosk) | 100% offline AI voice kiosk (Vosk + Piper TTS) |
 | [demo-industrial-iot](https://github.com/VladSh77/demo-industrial-iot) | Industrial IoT bridge demo — machine floor → Odoo MRP |
+| [odoo17-l10n_pl_ksef_margin](https://github.com/VladSh77/odoo17-l10n_pl_ksef_margin) | KSeF 2.0 e-invoicing for Odoo 17 — FA3, VAT Marża, session flow |
 
 ## Built With
 
