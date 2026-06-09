@@ -13,12 +13,12 @@
     <div class="wrapper">
         <div class="main-content">
             <div class="my-info">
-                <h2 class="my-profession">CTO & Architekt Automatyzacji</h2>
+                <h2 class="my-profession">CTO Fayna Digital · Inżynier Procesów AI i Automatyzacji</h2>
                 <h1 class="my-name">Volodymyr Shevchenko</h1>
                 <p class="my-descr">
-                    Dyrektor ds. Technologii (CTO) w Fayna Digital Sp. z o.o.. Ekspert w projektowaniu złożonych ekosystemów cyfrowych klasy Enterprise dla sektora przemysłowego i e-commerce. 
-                    Wdrażam autorską metodologię „7 kroków do systemu”, eliminując chaos operacyjny poprzez precyzyjną architekturę IT. 
-                    Zapewniam integrację maszyn z Odoo ERP, automatyzację procesów n8n oraz wdrażanie agentów AI, budując fundament pod skalowalny wzrost zysków.
+                    Dyrektor ds. Technologii (CTO) w Fayna Digital Sp. z o.o. Buduję i utrzymuję systemy Odoo ERP dla firm w Polsce i Ukrainie —
+                    od integracji z maszynami (IIoT) i telefonią po e-fakturowanie KSeF. Projektuję procesy dla AI: potoki RAG,
+                    pętle agentowe i automatyzacje n8n osadzone w realnych procesach biznesowych. Pracuję metodą „7 kroków do systemu”.
                 </p>
             </div>
 
@@ -36,6 +36,11 @@
                         <p class="project-descr">Budowa autonomicznych systemów AI obsługujących leady i wsparcie techniczne 24/7, zintegrowanych z lejkami sprzedażowymi agencji.</p>
                     </li>
                     <li class="project-item">
+                        <span class="my-projects-item-link">Inżynieria Procesów AI & Agentic Workflows</span>
+                        <span class="my-projects-item-tech">............ [ RAG, Agent Loops, Claude, n8n ]</span>
+                        <p class="project-descr">Projektowanie i budowa procesów dla systemów AI: potoki RAG na firmowej bazie wiedzy, autonomiczne pętle agentowe (agent loops), orkiestracja wielu agentów oraz osadzanie modeli LLM w realnych procesach biznesowych i danych firmy.</p>
+                    </li>
+                    <li class="project-item">
                         <span class="my-projects-item-link">Enterprise Automation Hub (n8n)</span>
                         <span class="my-projects-item-tech">........................... [ n8n Self-hosted, Docker ]</span>
                         <p class="project-descr">Budowa scentralizowanych platform automatyzacji łączących marketing (SendPulse), sprzedaż i logistykę w jeden bezawaryjny system.</p>
@@ -43,7 +48,7 @@
                     <li class="project-item">
                         <span class="my-projects-item-link">Digital Strategy & IT Audits</span>
                         <span class="my-projects-item-tech">................................... [ Business Logic ]</span>
-                        <p class="project-descr">Głębokie audyty infrastruktury i opracowywanie map drogowych transformacji cyfrowej dla dużych przedsiębiorstw.</p>
+                        <p class="project-descr">Audyty infrastruktury IT i opracowywanie planów (roadmap) transformacji cyfrowej dla firm.</p>
                     </li>
                 </ol>
             </div>
@@ -52,9 +57,14 @@
                 <h3 class="my-projects-title">Portfolio Projektów</h3>
                 <ol class="my-projects-list">
                     <li class="project-item">
-                        <span class="my-projects-item-link">campscout-management — Moduł Odoo dla Centrum Obozowego</span>
+                        <span class="my-projects-item-link">l10n_pl_ksef_margin — Integracja KSeF 2.0 dla Odoo 17</span>
+                        <span class="my-projects-item-tech">.... [ Python, Odoo 17, KSeF API, FA(3), XML/XSD ]</span>
+                        <p class="project-descr">Integracja Krajowego Systemu e-Faktur (KSeF 2.0) z Odoo 17: generowanie faktur w schemie FA(3), pełna obsługa procedury VAT Marża, sesja interaktywna (wysyłka i odbiór UPO), walidacja XSD oraz polskie nazwy produktów w XML. Wdrożony produkcyjnie u klienta w Polsce.</p>
+                    </li>
+                    <li class="project-item">
+                        <span class="my-projects-item-link">campscout — Moduł Odoo dla Centrum Obozowego + lejek lead-gen</span>
                         <span class="my-projects-item-tech">.. [ Python, Odoo 17, website_sale, Meta CAPI ]</span>
-                        <p class="project-descr">Autorski moduł Odoo v1.13 zarządzający katalogiem 22 obozów, biletami, kwalifikacją dzieci, stronami prawnymi (RODO, Cookie Policy, Ochrona Małoletnich) oraz integracją Meta CAPI (Lead + Purchase events). Wdrożony produkcyjnie na campscout.eu.</p>
+                        <p class="project-descr">Autorski moduł Odoo zarządzający katalogiem ~19 obozów, biletami, kwalifikacją dzieci, stronami prawnymi (RODO, Cookie Policy, Ochrona Małoletnich) oraz integracją Meta CAPI (Lead + Purchase). Architektura skonsolidowana z 21 modułów do jednego; quiz lead-gen (QR → quiz → tag CRM wg intencji) na campscout.pl. Wdrożony produkcyjnie.</p>
                     </li>
                     <li class="project-item">
                         <span class="my-projects-item-link">zadarma-odoo — Integracja Telefonii z Odoo CRM</span>
@@ -80,6 +90,16 @@
                         <span class="my-projects-item-link">ai-kiosk — Głosowy Asystent AI dla Restauracji</span>
                         <span class="my-projects-item-tech">........................... [ Python, Vosk STT, edge-tts ]</span>
                         <p class="project-descr">W pełni offline'owy kiosk głosowy dla restauracji Karkandaki (Polska). Rozpoznawanie mowy po polsku (Vosk), odpowiedzi głosem "Zosia", baza wiedzy: menu, godziny, dostawy. Zero chmury.</p>
+                    </li>
+                    <li class="project-item">
+                        <span class="my-projects-item-link">local-rag-mcp — Lokalna baza wiedzy RAG + MCP</span>
+                        <span class="my-projects-item-tech">.................. [ Python, Ollama, RAG, MCP ]</span>
+                        <p class="project-descr">Lokalny (offline) asystent bazy wiedzy: potok RAG na dokumentach firmowych, serwer MCP udostępniający narzędzia modelowi, lokalny LLM przez Ollama. Zero chmury — dane nie opuszczają serwera.</p>
+                    </li>
+                    <li class="project-item">
+                        <span class="my-projects-item-link">omnichannel-bridge — Most omnichannel + autoreply LLM</span>
+                        <span class="my-projects-item-tech">............ [ Python, Odoo 17, Ollama qwen2.5 ]</span>
+                        <p class="project-descr">Most łączący Facebook / Instagram / Telegram z Odoo Discuss, z automatycznymi odpowiedziami LLM (Ollama / qwen2.5), tworzeniem leadów CRM oraz wyłącznikiem awaryjnym (kill switch) przez Telegram.</p>
                     </li>
                     <li class="project-item">
                         <span class="my-projects-item-link">Prompt Engineering & AI Agents</span>
@@ -154,8 +174,11 @@
                         <li class="skills-list-line">Odoo ERP/MRP/CRM</li>
                         <li class="skills-list-line">n8n (Self-hosted) & Make</li>
                         <li class="skills-list-line">SendPulse Official Partner</li>
-                        <li class="skills-list-line">Python 3.14 & Industrial IoT</li>
-                        <li class="skills-list-line">AI Agents & Prompt Engineering</li>
+                        <li class="skills-list-line">Python 3.14 · PostgreSQL · IIoT</li>
+                        <li class="skills-list-line">TypeScript / JavaScript · Netlify</li>
+                        <li class="skills-list-line">AI Agents, RAG & Process Engineering</li>
+                        <li class="skills-list-line">LLM: Claude · GPT-4o · Ollama (local)</li>
+                        <li class="skills-list-line">KSeF 2.0 / FA(3) e-Invoicing</li>
                         <li class="skills-list-line">AWS / Cloudflare / Docker</li>
                         <li class="skills-list-line">Stripe / PayPal Integrations</li>
                         <li class="skills-list-line">Linux Server Admin & Git</li>
