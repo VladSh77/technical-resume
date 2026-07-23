@@ -26,9 +26,9 @@ Interactive HTML/CSS technical resume of **Volodymyr Shevchenko** — CTO & Auto
 
 | Project | Description |
 |---------|-------------|
-| [odoo17-l10n_pl_ksef_margin](https://github.com/VladSh77/odoo17-l10n_pl_ksef_margin) | KSeF 2.0 e-invoicing for Odoo 17 — FA(3), VAT Marża, session flow |
+| [l10n-pl-ksef-margin](https://github.com/VladSh77/l10n-pl-ksef-margin) | KSeF 2.0 e-invoicing for Odoo 17 — FA(3), VAT Marża, session flow |
 | [dnj-shopfloor](https://github.com/VladSh77/dnj-shopfloor) | Shopfloor kiosk + Modbus bridge for printing house |
-| [odoo-chatwoot-connector](https://github.com/VladSh77/odoo-chatwoot-connector) | SendPulse multi-channel chatbot connector for Odoo |
+| [fayna-sendpulse-odoo](https://github.com/VladSh77/fayna-sendpulse-odoo) | SendPulse multi-channel chatbot connector for Odoo + LLM autoreply |
 | [zadarma-odoo](https://github.com/VladSh77/zadarma-odoo) | Zadarma VoIP full integration with Odoo CRM |
 | [ai-kiosk](https://github.com/VladSh77/ai-kiosk) | 100% offline AI voice kiosk (Vosk + Piper TTS) |
 | [demo-industrial-iot](https://github.com/VladSh77/demo-industrial-iot) | Industrial IoT bridge demo — machine floor → Odoo MRP |
