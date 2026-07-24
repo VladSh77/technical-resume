@@ -62,10 +62,26 @@ ul, ol {
 }
 
 .my-projects-item-link {
-    color: #005FFF;
+    color: #161D2A;
     font-weight: 700;
     font-size: 16px;
+    text-decoration: none;
+}
+
+a.my-projects-item-link {
+    color: #005FFF;
     text-decoration: underline;
+}
+
+a.my-projects-item-link:hover {
+    color: #003fcc;
+}
+
+.my-projects-item-tech {
+    display: block;
+    margin-top: 2px;
+    color: #A8A8A8;
+    font-size: 12px;
 }
 
 .project-descr {
@@ -73,6 +89,10 @@ ul, ol {
     color: #595959;
     font-size: 14px;
     line-height: 22px;
+}
+
+.project-item .work-experience-duties-list {
+    margin: 8px 0 0 0;
 }
 
 .work-experience-container {
@@ -134,4 +154,40 @@ ul, ol {
     line-height: 28px;
     color: #161D2A;
     margin-bottom: 4px;
+}
+
+@media (max-width: 1240px) {
+    .wrapper {
+        width: 100%;
+        max-width: 1200px;
+    }
+}
+
+@media (max-width: 860px) {
+    .wrapper {
+        flex-direction: column-reverse;
+    }
+    .main-content {
+        width: 100%;
+        padding: 40px 24px;
+    }
+    .sidebar {
+        width: 100%;
+        min-height: 0;
+    }
+    .sidebar img {
+        width: 100%;
+    }
+    .my-name {
+        font-size: 32px;
+    }
+}
+
+@media (max-width: 480px) {
+    body {
+        padding: 0;
+    }
+    .my-projects-item-link {
+        font-size: 15px;
+    }
 }

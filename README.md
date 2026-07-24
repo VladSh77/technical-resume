@@ -26,12 +26,13 @@ Interactive HTML/CSS technical resume of **Volodymyr Shevchenko** — CTO & Auto
 
 | Project | Description |
 |---------|-------------|
-| [l10n-pl-ksef-margin](https://github.com/VladSh77/l10n-pl-ksef-margin) | KSeF 2.0 e-invoicing for Odoo 17 — FA(3), VAT Marża, session flow |
-| [dnj-shopfloor](https://github.com/VladSh77/dnj-shopfloor) | Shopfloor kiosk + Modbus bridge for printing house |
-| [fayna-sendpulse-odoo](https://github.com/VladSh77/fayna-sendpulse-odoo) | SendPulse multi-channel chatbot connector for Odoo + LLM autoreply |
-| [zadarma-odoo](https://github.com/VladSh77/zadarma-odoo) | Zadarma VoIP full integration with Odoo CRM |
-| [ai-kiosk](https://github.com/VladSh77/ai-kiosk) | 100% offline AI voice kiosk (Vosk + Piper TTS) |
-| [demo-industrial-iot](https://github.com/VladSh77/demo-industrial-iot) | Industrial IoT bridge demo — machine floor → Odoo MRP |
+| [l10n-pl-ksef-margin](https://github.com/fayna-digital/l10n-pl-ksef-margin) | KSeF 2.0 e-invoicing for Odoo 17 — FA(3), VAT Marża, session flow |
+| [shopfloor-kiosk](https://github.com/fayna-digital/shopfloor-kiosk) | Shopfloor kiosk + Modbus bridge for an industrial plant |
+| [fayna-sendpulse-odoo](https://github.com/fayna-digital/fayna-sendpulse-odoo) | SendPulse multi-channel chatbot connector for Odoo + LLM autoreply |
+| [zadarma-odoo](https://github.com/fayna-digital/zadarma-odoo) | Zadarma VoIP full integration with Odoo CRM |
+| [ai-kiosk](https://github.com/fayna-digital/ai-kiosk) | 100% offline AI voice kiosk (Vosk + Piper TTS) |
+| [local-rag-mcp](https://github.com/fayna-digital/local-rag-mcp) | Local RAG + MCP knowledge base assistant, fully offline |
+| [demo-industrial-iot](https://github.com/fayna-digital/demo-industrial-iot) | Industrial IoT bridge demo — machine floor → Odoo MRP |
 
 ## Built With
 
