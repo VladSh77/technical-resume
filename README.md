@@ -1,7 +1,7 @@
 # Technical Resume — Volodymyr Shevchenko
 
-![Role](https://img.shields.io/badge/Role-CTO%20%40%20Fayna%20Digital-informational)
-![Stack](https://img.shields.io/badge/Stack-Odoo%20%7C%20Python%20%7C%20AI%20Process%20Eng%20%7C%20KSeF-blue)
+![Role](https://img.shields.io/badge/Role-CTO%20%2F%20Administrator%20IT-informational)
+![Stack](https://img.shields.io/badge/Stack-Odoo%20%7C%20Python%20%7C%20AI%20%7C%20Windows%20%7C%20Linux-blue)
 ![Location](https://img.shields.io/badge/Location-Poland%20%2F%20Ukraine-lightgrey)
 ![Live](https://img.shields.io/badge/Live-vladsh77.github.io%2Ftechnical--resume-brightgreen)
 
@@ -9,10 +9,11 @@
 
 ---
 
-Interactive HTML/CSS technical resume of **Volodymyr Shevchenko** — CTO & Automation / AI Process Engineer at [Fayna Digital](https://fayna.agency).
+Interactive HTML/CSS technical resume of **Volodymyr Shevchenko** — CTO, Administrator IT & Automation / AI Process Engineer at [Fayna Digital](https://fayna.agency).
 
 ## Expertise
 
+- **Administracja IT** — Windows (od DOS/3.11 po Windows 11), Linux Server, sieci LAN/WAN, Microsoft 365, backup, Help Desk
 - **Odoo ERP** — custom modules (MRP, CRM, e-Commerce, accounting), Odoo 17 Community & Enterprise
 - **AI Process Engineering** — RAG pipelines, agentic loops, multi-agent orchestration, LLM integration into business processes
 - **AI Automation** — offline voice kiosks (Vosk/Piper), local LLM (Ollama/qwen2.5), AI sales agents (Claude / GPT-4o)
