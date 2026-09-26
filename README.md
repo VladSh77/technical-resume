@@ -1,7 +1,7 @@
 # Technical Resume — Volodymyr Shevchenko
 
 ![Role](https://img.shields.io/badge/Role-CTO%20%2F%20Administrator%20IT-informational)
-![Stack](https://img.shields.io/badge/Stack-Odoo%20%7C%20Python%20%7C%20AI%20%7C%20Windows%20%7C%20Linux-blue)
+![Stack](https://img.shields.io/badge/Stack-Odoo%20%7C%20Python%20%7C%20Ruby%20%7C%20AI%20%7C%20Windows%20%7C%20Linux-blue)
 ![Location](https://img.shields.io/badge/Location-Poland%20%2F%20Ukraine-lightgrey)
 ![Live](https://img.shields.io/badge/Live-vladsh77.github.io%2Ftechnical--resume-brightgreen)
 
@@ -18,7 +18,7 @@ Interactive HTML/CSS technical resume of **Volodymyr Shevchenko** — CTO, Admin
 - **AI Process Engineering** — RAG pipelines, agentic loops, multi-agent orchestration, LLM integration into business processes
 - **AI Automation** — offline voice kiosks (Vosk/Piper), local LLM (Ollama/qwen2.5), AI sales agents (Claude / GPT-4o)
 - **Industrial IoT** — Modbus TCP, PLC integration, real-time machine monitoring bridges
-- **Languages & Data** — Python, TypeScript/JavaScript, SQL (PostgreSQL/PLpgSQL), Bash
+- **Languages & Data** — Python, Ruby, TypeScript/JavaScript, SQL (PostgreSQL/PLpgSQL), Bash
 - **Business Automation** — n8n, webhook pipelines, API integrations
 - **Poland Market** — KSeF 2.0 e-invoicing (FA3/VAT Marża), GDPR/RODO compliance, Polish localization
 - **Legal & Compliance** — 11 years legal practice (2011–2022); contracts, data protection, business process law
