@@ -9,7 +9,19 @@
 
 ---
 
+## About
+
 Interactive HTML/CSS technical resume of **Volodymyr Shevchenko** — CTO, Administrator IT & Automation / AI Process Engineer at [Fayna Digital](https://fayna.agency).
+
+I build and deliver ERP systems and business process automation — from requirements to a working solution in production. Since 2023 I work with **Odoo 17** (Community & Enterprise): custom modules and post-launch client support. Currently in production: **KSeF 2.0** e-invoicing with VAT Marża, a **shopfloor kiosk** with Modbus TCP machine monitoring, a full-cycle **booking/payment/refund portal**, **Zadarma VoIP** in CRM, and a **messenger connector** in Odoo Discuss.
+
+I specialise in connecting systems — Odoo with telephony, messengers, payments, marketing and industrial devices (IIoT) — and in applying AI in practice: **RAG**, **agentic loops**, local models (**Ollama**) and multi-provider **LLM routing**, wired into real processes rather than demos.
+
+Before that, from 2019, I implemented **Creatio** and **Bitrix24** for clients in Poland and Ukraine. 11 years as a lawyer (2011–2022) means the accounting and contractual side is not just a set of fields to me — I know **GDPR/RODO** and the Polish specifics (**KSeF 2.0**, **FA(3)**).
+
+**Stack:** Odoo 17 · Python · PostgreSQL · JavaScript/TypeScript · Docker · Linux · n8n · APIs (REST, webhooks, HMAC, XML/XSD, Modbus TCP)
+
+**Portfolio:** [fayna-digital](https://github.com/fayna-digital) · **LinkedIn:** [vladshua](https://www.linkedin.com/in/vladshua/)
 
 ## Expertise
 
